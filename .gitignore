@@ -1,0 +1,64 @@
+# --- Environments & Secrets ---
+.env
+.env.local
+.env.*.local
+.venv/
+venv/
+env/
+ENV/
+bin/
+lib/
+share/
+pyvenv.cfg
+
+# --- Node.js / Frontend ---
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# --- Python / Backend ---
+__pycache__/
+backend/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Project Specific (Audio Cache & Logs) ---
+static/audio_cache/*.mp3
+backend/static/audio_cache/*.mp3
+backend/debug_log.txt
+*.log
+
+# --- IDE & Editors ---
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
