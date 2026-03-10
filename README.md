@@ -48,7 +48,7 @@ MockInterviewer is an advanced, AI-driven platform designed to help job seekers 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/MockInterviewer.git
+   git clone https://github.com/Shreenath-14/mock-interviewer-ai.git
    cd MockInterviewer
    ```
 
@@ -137,4 +137,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Shreenath** - [LinkedIn](https://linkedin.com/in/yourusername) - [Portfolio](https://yourportfolio.com)
 
-Project Link: [https://github.com/yourusername/MockInterviewer](https://github.com/yourusername/MockInterviewer)
+Project Link: [https://github.com/Shreenath-14/mock-interviewer-ai.git](https://github.com/Shreenath-14/mock-interviewer-ai.git)
